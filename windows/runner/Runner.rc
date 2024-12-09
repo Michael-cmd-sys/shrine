@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.codelabs" "\0"
-            VALUE "FileDescription", "shrine" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "mdc_100_series" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "shrine" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.codelabs. All rights reserved." "\0"
-            VALUE "OriginalFilename", "shrine.exe" "\0"
-            VALUE "ProductName", "shrine" "\0"
+            VALUE "InternalName", "mdc_100_series" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "mdc_100_series.exe" "\0"
+            VALUE "ProductName", "mdc_100_series" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
